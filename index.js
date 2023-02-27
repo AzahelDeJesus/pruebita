@@ -1,1 +1,3 @@
-console.log("hola mundo")
+const { mandarSaludo } = require("./App/App");
+
+mandarSaludo();
